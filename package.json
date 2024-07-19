@@ -13,7 +13,6 @@
   },
   "dependencies": {
     "@builder.io/sdk-vue": "^1.0.28",
-    "axios": "^1.6.8",
-    "fsevents": "^2.3.3"
+    "axios": "^1.6.8"
   }
 }
