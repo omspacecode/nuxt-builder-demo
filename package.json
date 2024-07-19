@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "scripts": {
+    "build": "nuxt build",
+    "dev": "nuxt dev",
+    "generate": "nuxt generate",
+    "preview": "nuxt preview",
+    "postinstall": "nuxt prepare"
+  },
+  "devDependencies": {
+    "@nuxt/image": "^1.7.0",
+    "nuxt": "^3.11.2"
+  },
+  "dependencies": {
+    "@builder.io/sdk-vue": "^1.0.28",
+    "axios": "^1.6.8",
+    "fsevents": "^2.3.3"
+  }
+}
